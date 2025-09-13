@@ -27,7 +27,7 @@ With these enhancements, the system could become a practical tool for blood bank
 
 [DonorPredict.ipynb](https://github.com/user-attachments/files/22250545/DonorPredict.ipynb)
 
-
 [SQLfile.sql](https://github.com/user-attachments/files/22250548/SQLfile.sql)
 
+<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/27a73ee7-a520-4ff1-870c-6b7ecda40d5d" />
 
